@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    font-family: 'Arvo', serif;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: orange;
+    color: white;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px gray;
+    border: 5px solid black;
+}
